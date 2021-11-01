@@ -1,7 +1,7 @@
 {
   "name": "account-balance",
   "version": "1.0.0",
-  "description": "",
+  "description": "tutorial SubQuery project",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
@@ -16,7 +16,7 @@
     "schema.graphql",
     "project.yaml"
   ],
-  "author": "sa",
+  "author": "amalker",
   "license": "Apache-2.0",
   "devDependencies": {
     "@polkadot/api": "^5.7.1",
